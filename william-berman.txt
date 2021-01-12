@@ -111,7 +111,15 @@ https://codepen.io/wberman27/pen/OJRBxEp
     git push -u origin firstname-lastname
     
     37. Walk me through Lambda's git flow. 
-    Fork from github, clone from github to local, add commit and push, pull request
+    Fork repo on github, 
+    click clone/download button to copy the giturl to the repo, 
+    use CLI cd command to go to desired repo directory, 
+    use git clone with the url, 
+    cd to new repo directory, 
+    create your own branch using git checkout -b firename-lastname, 
+    work on the project, 
+    add commit and push changes, 
+    submit pull request
 
 
 
